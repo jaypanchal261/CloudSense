@@ -1,8 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project Title [(Live link) ](https://loveablepaws-rho.vercel.app/)
 
-Currently, two official plugins are available:
+I developed a real-time weather dashboard using React, fetching data from the OpenWeatherMap API. The app displays current weather conditions like temperature, wind speed, and humidity for the user’s location or a searched city. The interface is designed to be intuitive and responsive, providing quick access to accurate weather data.
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Live Location Weather Info
+- Search Cities 
+- Changing images and background based on weather condition
+- Responsive
+
+
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1OGjYy62nF_I7_6Bksc3Hi25RcEauvOwy)
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=135nNX8qY7hQoUMfdkelghtFY8gGdzezE)
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1pqcAi4svCVLN42A4eRhLzXq3yaV7Dl3_)
+
+
+
+
+## Tech Stack
+
+**Client:** React, CSS
+
+**API:** OpenWeatherMap
+
